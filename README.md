@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Samarth+Annigeri+%F0%9F%91%8B;Data+%7C+AI+%7C+Product+%7C+Analytics;Building+at+the+intersection+of+ML+%26+Business;McGill+MMA+%7C+Montreal+%F0%9F%87%A8%F0%9F%87%A6" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Samarth%20Annigeri&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Machine%20Learning%20%E2%80%A2%20AI%20Systems%20%E2%80%A2%20Data%20Architecture%20%E2%80%A2%20Product&descAlignY=55&descSize=16" width="100%"/>
 
 <br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=00D9FF&center=true&vCenter=true&width=800&lines=Building+production+ML+pipelines+that+ship.;From+LSTM+autoencoders+to+Azure+deployments.;Credit+risk+%7C+Supply+chain+%7C+Quant+finance+%7C+NLP.;McGill+MMA+%7C+BNP+Paribas+%7C+Montreal+%F0%9F%87%A8%F0%9F%87%A6" alt="Typing SVG" />
+
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samarth-annigeri-14326a178/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://theindianmagenta.notion.site/Product-Portfolio-f56b69796af74829a005df99d3cadf4b)
@@ -10,143 +14,235 @@
 
 <br/>
 
-![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-Product%20%7C%20Analytics%20%7C%20AI%20%7C%20ML%20Roles-brightgreen?style=flat-square&labelColor=1a1a2e)
+![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-ML%20Engineer%20%7C%20AI%20Engineer%20%7C%20Data%20Architect%20%7C%20PM-brightgreen?style=flat-square&labelColor=0d1117)
 
 </div>
 
 ---
 
-## About Me
+<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=Agent007repo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
 
-I'm a **data and AI professional** based in Montreal with a Master of Management in Analytics from McGill University. My work sits at the intersection of machine learning, product thinking, and business strategy. I've shipped ML pipelines in production (ARIMA-based credit risk models, Azure infrastructure, Python ML workflows), led product roadmaps at AKQA and HelloPM, and built everything from causal inference frameworks to quantitative investment systems.
+## Who I Am
 
-I approach problems analytically but think in products. Whether it's a revenue operations workflow, a growth model, or a neural network architecture, I care about the "so what" as much as the how.
+I design and ship **production ML systems** at the intersection of quantitative analysis, AI engineering, and business strategy. My work spans credit risk (ARIMA pipelines in Azure), supply chain intelligence (LSTM + LightGBM multi-horizon forecasting), and quantitative investment (alpha generation on 147 stock characteristics).
 
-- **Education:** MMA, McGill University | BS Information Systems, San Francisco State University
-- **Work:** Data Architect @ BNP Paribas Montreal | Former PM @ AKQA + HelloPM
-- **Location:** Montreal, QC (Canadian work authorization - PGWP)
-- **Outside of work:** Badminton, weightlifting, nutrition science, Vedic philosophy
+I think in systems, not scripts. Every model I build has a deployment story, a monitoring plan, and a business metric it moves.
 
----
+**Current role:** Data Architect @ BNP Paribas Montreal  
+**Education:** MMA, McGill University | BS Information Systems, SFSU  
+**Authorization:** Canadian PGWP - open to all of Canada + remote  
+**Outside of work:** Badminton, strength training, Vedic philosophy
 
-## What I'm Open To
-
-| Domain | Roles |
-|---|---|
-| **AI / ML** | ML Engineer, AI Engineer, ML Scientist, MLOps, Member of Technical Staff |
-| **Analytics** | Product Analytics, Growth Analytics, Business Intelligence |
-| **Product / Ops** | Product Management, Revenue Operations, GTM Operations, Product Operations |
-| **Technical** | Data Architecture, Solutions Engineering, Pre-Sales Engineering |
+<br clear="right"/>
 
 ---
 
-## Tech Stack
+## Impact by the Numbers
 
-**Languages & Data**
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+| Domain | System | Key Result |
+|:---|:---|:---|
+| Supply Chain Risk | LSTM AE + LightGBM | >80% recall on 6 major global shock events; AUC 0.85 at 7-day horizon |
+| Quantitative Finance | Neural Net + Factor Model | 11.71% annualized return, 7.71% alpha, Sharpe 0.71 (2020-2023 OOS) |
+| Air Quality Forecasting | Random Forest | R² = 0.92, MAE = 0.08 on UCI benchmark dataset |
+| Social Media Causal Inference | DiD + Network Analysis | Louvain community modularity 0.9174; EUA causal impact quantified |
+| Email Campaign Uplift | CausalML Meta-Learners | ATE = +0.0068 lift, validated via placebo refutation |
+| Credit Risk (Production) | ARIMA + Azure ML | Deployed to BNP Paribas production environment |
 
-**Machine Learning & AI**
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-006600?style=flat-square&logo=xgboost&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-
-**BI & Visualization**
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
-
-**Cloud & Infrastructure**
-
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-**Automation & GenAI**
-
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+</div>
 
 ---
 
 ## Featured Projects
 
-### [Advanced Stock Return Prediction and Portfolio Optimization](https://github.com/Agent007repo/Advanced-Stock-Return-Prediction-and-Portfolio-Optimization)
-> Quantitative investment framework using ML (Ridge, LASSO, Elastic Net, Neural Networks with residual connections) on 147 stock characteristics. Mixed 70/30 long-short strategy achieved **11.71% annualized return, 7.71% alpha, Sharpe 0.71** on out-of-sample 2020-2023 data. Includes factor residualization, volatility-based position sizing, and 3% concentration caps.
+<details open>
+<summary><b>SCRI: Supply Chain Risk Intelligence System</b> &nbsp;|&nbsp; <a href="https://github.com/Agent007repo/SCRI-Supply-Chain-Risk-Intelligence-System">View Repository</a></summary>
 
-`Python` `TensorFlow` `scikit-learn` `Quantitative Finance` `Portfolio Optimization`
+<br/>
+
+> **Problem:** $56T in global trade is exposed to tariff shocks, port closures, and geopolitical cascades. Batch-daily systems react after the damage is done.
+
+**Solution:** A near-real-time, 4-layer ML pipeline that detects supply chain stress before it propagates.
+
+| Layer | Model | Purpose |
+|:---|:---|:---|
+| 1 - Detection | LSTM Autoencoder (2L, 64 hidden, latent=32) | Unsupervised shock detection on sequential signal patterns |
+| 2 - Forecast | LightGBM multi-horizon | Binary risk classification: 7d / 14d / 30d ahead |
+| 3 - Score | Composite SCSI index | Continuous stress scoring per timestep |
+| 4 - Alert | Threshold engine | CLEAR / ELEVATED / HIGH / CRITICAL tiers |
+
+**Signals ingested:** Baltic Dry Index, WTI Crude, ISM Manufacturing PMI, PPI All Commodities, US-China trade balance, shipping equity basket (ZIM, FDX, UPS, BDRY), T10Y2Y yield curve, NY Fed GSCPI.
+
+**Backtested against:** US-China tariff war (2018-19), COVID demand collapse (Mar 2020), Suez Canal blockage (Mar 2021), Russia-Ukraine invasion (Feb 2022), Shanghai lockdowns (Mar-Jun 2022), Red Sea / Houthi attacks (Late 2023).
+
+**Results:** LSTM AE recall >80% on top-10 shock events. LightGBM AUC-ROC: 0.85+ at 7d, 0.82+ at 14d, 0.78+ at 30d.
+
+`Python` `TensorFlow` `LightGBM` `LSTM` `FRED API` `Time Series` `Anomaly Detection` `Geopolitical Risk`
+
+</details>
 
 ---
 
-### [Vaccination Tweet Analysis](https://github.com/Agent007repo/Vaccination-Tweet-Analysis)
-> End-to-end social media analytics pipeline on COVID-19 vaccine discourse. Applied VADER sentiment analysis, PageRank-based influencer detection, Louvain community detection (**modularity 0.9174**), information cascade modeling, and difference-in-differences causal inference to measure the impact of EUA announcements on public sentiment.
+<details>
+<summary><b>Advanced Stock Return Prediction and Portfolio Optimization</b> &nbsp;|&nbsp; <a href="https://github.com/Agent007repo/Advanced-Stock-Return-Prediction-and-Portfolio-Optimization">View Repository</a></summary>
+
+<br/>
+
+> ML-driven quantitative investment framework on 147 stock characteristics with out-of-sample validation across 2020-2023.
+
+Ridge, LASSO, Elastic Net, and Neural Networks with residual connections. Mixed 70/30 long-short strategy with volatility-based position sizing and 3% concentration caps. **11.71% annualized return, 7.71% alpha, Sharpe 0.71.**
+
+`Python` `TensorFlow` `scikit-learn` `Quantitative Finance` `Factor Models` `Portfolio Optimization`
+
+</details>
+
+---
+
+<details>
+<summary><b>Vaccination Tweet Analysis - NLP + Causal Inference</b> &nbsp;|&nbsp; <a href="https://github.com/Agent007repo/Vaccination-Tweet-Analysis">View Repository</a></summary>
+
+<br/>
+
+> End-to-end social network analytics on COVID-19 vaccine discourse at scale.
+
+VADER sentiment, PageRank influencer detection, Louvain community detection (modularity **0.9174**), information cascade modeling, and difference-in-differences causal inference to measure the effect of EUA announcements on public sentiment.
 
 `Python` `NetworkX` `NLTK` `Causal Inference` `NLP` `Social Network Analysis`
 
+</details>
+
 ---
 
-### [Air Quality Prediction - Random Forest](https://github.com/Agent007repo/Air_Quality_Random_Forest_Model_Project)
-> Predicted CO concentration levels from UCI's Air Quality dataset using Random Forest Regression. Achieved **R² = 0.92, MAE = 0.08, RMSE = 0.12** through rigorous EDA, multicollinearity-aware feature selection, and temporal pattern analysis (diurnal traffic cycles).
+<details>
+<summary><b>Causal Inference - Email Marketing Campaign</b> &nbsp;|&nbsp; <a href="https://github.com/Agent007repo/Causal_Inference_Project-">View Repository</a></summary>
+
+<br/>
+
+> CausalML meta-learners (S-Learner via LR, T-Learner via XGBoost) and DoWhy causal graph framework to estimate ATE of a men's email campaign on e-commerce conversions. **ATE = +0.0068** validated via placebo refutation.
+
+`Python` `CausalML` `DoWhy` `XGBoost` `A/B Testing`
+
+</details>
+
+---
+
+<details>
+<summary><b>Air Quality Prediction - Random Forest</b> &nbsp;|&nbsp; <a href="https://github.com/Agent007repo/Air_Quality_Random_Forest_Model_Project">View Repository</a></summary>
+
+<br/>
+
+> CO concentration prediction on UCI's Air Quality dataset. **R² = 0.92, MAE = 0.08, RMSE = 0.12.** Rigorous EDA, multicollinearity-aware feature selection, and temporal diurnal pattern analysis.
 
 `Python` `scikit-learn` `EDA` `Feature Engineering` `Random Forest`
 
----
-
-### [Causal Inference - Email Marketing Campaign](https://github.com/Agent007repo/Causal_Inference_Project-)
-> Applied CausalML meta-learners (S-Learner via Linear Regression, T-Learner via XGBoost) and DoWhy causal graph framework to estimate the ATE of a men's email campaign on e-commerce conversions. Estimated **ATE of +0.0068** (0.68pp lift), validated via placebo refutation testing. Features: purchase history, recency, newbie status, category affinity.
-
-`Python` `CausalML` `DoWhy` `XGBoost` `Causal Inference` `A/B Testing`
+</details>
 
 ---
 
-### [Avocado Prices Prediction](https://github.com/Agent007repo/-Avocado-Prices-Prediction)
-> Regression analysis on the Hass Avocado Board dataset to forecast average avocado prices across US regions. Covers EDA, seasonal decomposition, feature engineering (PLU volume, organic vs. conventional, region encoding), and multi-model comparison.
+<details>
+<summary><b>Avocado Prices Prediction</b> &nbsp;|&nbsp; <a href="https://github.com/Agent007repo/-Avocado-Prices-Prediction">View Repository</a></summary>
+
+<br/>
+
+> Regression and time series analysis on Hass Avocado Board data. EDA, seasonal decomposition, multi-model comparison across US regions.
 
 `Python` `Regression` `EDA` `Time Series` `Feature Engineering`
 
+</details>
+
 ---
 
-## GitHub Stats
+## Technical Depth
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Agent007repo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agent007repo&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" alt="Top Languages"/>
+```
+Core ML / AI
+├── Supervised        XGBoost · LightGBM · Random Forest · Ridge / LASSO / ElasticNet
+├── Deep Learning     LSTM · Autoencoder · Residual Neural Nets (TensorFlow / Keras)
+├── Causal Inference  CausalML · DoWhy · DiD · Propensity Scoring · Refutation Testing
+├── NLP               VADER · BERT (fine-tuned) · LangChain · RAG Pipelines
+├── Time Series       ARIMA · Seasonal Decomp · Multi-horizon Forecasting (7/14/30d)
+└── Unsupervised      Louvain Community Detection · PageRank · LSTM Anomaly Detection
+
+MLOps & Infrastructure
+├── Cloud             Azure ML · Azure Blob Storage · Azure Pipelines
+├── Tracking          MLflow · Experiment versioning · Model registry
+├── Orchestration     n8n · Python ML workflows · Batch + near-real-time
+└── Infra             Git · Jupyter · Docker (basics) · FRED API · yfinance
+
+Analytics & BI
+├── Languages         Python · SQL (PostgreSQL) · R (working knowledge)
+├── Visualization     Power BI · Tableau · Plotly · Matplotlib · Seaborn
+└── Methods           Cohort analysis · Funnel modeling · A/B testing · CLV modeling
+
+Product & Strategy
+├── Frameworks        PRDs · Roadmapping · OKRs · Jobs-to-be-Done
+├── Tools             Notion · Linear · Figma (wireframes) · Mixpanel
+└── Domains           FinTech · Supply Chain · MarTech · Growth
+```
 
 </div>
 
+---
+
+## GitHub Activity
+
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Agent007repo&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Agent007repo&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agent007repo&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Agent007repo&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
 
 </div>
 
 ---
 
-## Currently Learning / Building
+## Currently Building
 
-- Deeper MLOps: model versioning, experiment tracking (MLflow), deployment pipelines
-- LLM application architecture: RAG systems, agents, multi-step reasoning pipelines
-- n8n automation workflows for AI-augmented job search and data pipelines
-- Advanced prompt engineering and RLHF annotation frameworks
+```python
+focus_2025 = {
+    "MLOps":       ["MLflow experiment tracking", "model versioning", "deployment pipelines"],
+    "LLM_Arch":    ["RAG systems", "agentic frameworks", "multi-step reasoning pipelines"],
+    "Automation":  ["n8n AI-augmented workflows", "data ingestion pipelines"],
+    "Research":    ["Temporal Fusion Transformers", "interpretable multi-horizon forecasting"],
+}
+```
+
+---
+
+## Open To
+
+<div align="center">
+
+| Track | Target Roles |
+|:---|:---|
+| **AI / ML Engineering** | ML Engineer, AI Engineer, MLOps, Member of Technical Staff |
+| **Quantitative** | Quant Researcher, Risk Modeler, Algo Strategist |
+| **Analytics** | Product Analytics, Growth Analytics, Business Intelligence |
+| **Product / Strategy** | PM, Revenue Ops, GTM Ops, Product Operations |
+| **Technical Sales** | Solutions Engineering, Pre-Sales, Data Architecture |
+
+*Montreal-based. Open to Canada-wide and remote. Canadian work authorization (PGWP).*
+
+</div>
 
 ---
 
 <div align="center">
 
-**Let's connect and build something useful.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samarth-annigeri-14326a178/)
-[![Portfolio](https://img.shields.io/badge/View%20My%20Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://theindianmagenta.notion.site/Product-Portfolio-f56b69796af74829a005df99d3cadf4b)
+**If it touches data, I can build it. If it ships, I've probably already broken and fixed it.**
 
-*Open to roles in Montreal, Canada-wide, and remote.*
+[![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samarth-annigeri-14326a178/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://theindianmagenta.notion.site/Product-Portfolio-f56b69796af74829a005df99d3cadf4b)
 
 </div>
