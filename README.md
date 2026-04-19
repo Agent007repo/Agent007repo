@@ -57,6 +57,34 @@ I don't just use frameworks. I understand why each layer of the stack exists, wh
 ## Featured Projects
 
 <details open>
+<summary><b>Autonomous PM Engine</b> &nbsp;|&nbsp; <a href="https://github.com/Agent007repo/autonomous-pm-engine">View Repository</a></summary>
+
+<br/>
+
+> **Problem:** Product managers spend 60-80% of their time synthesizing unstructured customer feedback into structured specs — interviews, CSVs, research docs — before a single line of PRD gets written. This is a reasoning and retrieval problem, not a human judgment problem.
+
+**Solution:** A production-grade, multi-agent system that ingests unstructured customer feedback, surfaces quantitative trends via hybrid RAG + graph retrieval, and automatically generates structured PRDs and engineering roadmaps with self-critique loops.
+
+| Layer | Technology | Purpose |
+|:---|:---|:---|
+| Knowledge | ChromaDB (hybrid BM25 + dense) + Neo4j | Pain-point-to-feature entity graph + semantic retrieval |
+| Embeddings | `BAAI/bge-m3` (sentence-transformers) | Dense semantic embeddings |
+| Orchestration | LangGraph (stateful DAG) | INGEST → EMBED → EXTRACT → ANALYZE → DRAFT → REVIEW cycle |
+| Agents | CrewAI (3 agents) | Data Analyst, PM Agent (plan+execute), Engineering Agent (ReAct + self-critique) |
+| API | FastAPI | REST interface — POST documents, receive PRD |
+| Infra | Docker Compose | Neo4j + ChromaDB server mode |
+
+**Outputs per run:** Full structured PRD (Markdown) · Engineering roadmap (quarterly milestones) · Feature priority matrix (RICE scoring) · Technical feasibility assessment
+
+**Self-critique loop:** Engineering Agent runs up to `MAX_CRITIQUE_ROUNDS` iterations flagging missing NFRs, under-specified acceptance criteria, and feasibility risks before passing a quality gate.
+
+`Python` `LangGraph` `CrewAI` `GPT-4o` `ChromaDB` `Neo4j` `RAG` `Multi-Agent` `FastAPI` `Docker`
+
+</details>
+
+---
+
+<details open>
 <summary><b>SCRI: Supply Chain Risk Intelligence System</b> &nbsp;|&nbsp; <a href="https://github.com/Agent007repo/SCRI-Supply-Chain-Risk-Intelligence-System">View Repository</a></summary>
 
 <br/>
