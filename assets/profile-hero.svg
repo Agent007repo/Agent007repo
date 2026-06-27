@@ -35,7 +35,6 @@
   <rect width="1200" height="360" rx="34" fill="#020617"/>
   <rect width="1200" height="360" rx="34" fill="url(#glowA)"/>
   <rect width="1200" height="360" rx="34" fill="url(#glowB)"/>
-  <path d="M58 78 H620" stroke="#FFFFFF" stroke-width="1" stroke-linecap="round" opacity="0.26"/>
 
   <g transform="translate(64 118)">
     <text class="name" x="0" y="0">Samarth Annigeri</text>
