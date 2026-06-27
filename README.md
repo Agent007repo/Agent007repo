@@ -1,15 +1,41 @@
-# Samarth Annigeri
+<img src="./assets/profile-hero.svg" alt="Samarth Annigeri - AI product systems, data platforms, and UI/UX-led analytics" width="100%" />
 
-Applied AI and data product builder focused on turning ambiguous business problems into measurable systems: agent workflows, analytics pipelines, forecasting, causal inference, and product-facing dashboards.
+<div align="center">
 
-[LinkedIn](https://www.linkedin.com/in/samarth-annigeri-14326a178/) | [Portfolio](https://theindianmagenta.notion.site/Product-Portfolio-f56b69796af74829a005df99d3cadf4b) | [Email](mailto:samarth.annigeri@mail.mcgill.ca)
+[LinkedIn](https://www.linkedin.com/in/samarth-annigeri-14326a178/) | [Product Portfolio](https://theindianmagenta.notion.site/Product-Portfolio-f56b69796af74829a005df99d3cadf4b) | [Email](mailto:samarth.annigeri@mail.mcgill.ca)
+
+**AI product systems | Data platforms | UX-led analytics | Applied ML**
+
+</div>
+
+---
+
+## Who I Am
+
+I build AI and data products where technical depth, product judgment, and user experience need to work together. My work spans agent workflows, analytics pipelines, forecasting, causal inference, dashboards, and product-facing systems that help teams make better decisions.
+
+My strongest lane is translating ambiguous business needs into systems people can actually use: clear workflows, measurable outputs, reliable data foundations, and interfaces that make complex information easier to act on.
+
+## UI/UX + Product Lens
+
+<img src="./assets/uiux-systems.svg" alt="UI/UX systems workflow showing research, information architecture, prototyping, dashboards, metrics, and iteration" width="100%" />
+
+I bring a UI/UX background into technical product work, especially when the product depends on trust, clarity, and repeated use.
+
+| UX Strength | How It Shows Up In My Work |
+|---|---|
+| Information architecture | Turning messy workflows, requirements, and datasets into clear product structures. |
+| Interaction design | Designing flows, states, and feedback loops that reduce user uncertainty. |
+| Dashboard design | Building decision surfaces with hierarchy, filtering, metrics, and business context. |
+| Product storytelling | Explaining technical systems in a way recruiters, users, and stakeholders can scan quickly. |
+| Measurement mindset | Connecting product changes to activation, conversion, trust, engagement, or operational efficiency. |
 
 ## Current Focus
 
 - AI product engineering and LLM application workflows.
 - Data architecture, analytics delivery, and workflow automation.
 - Applied ML for forecasting, risk analytics, NLP, and causal inference.
-- Product management systems that convert messy inputs into decision-ready artifacts.
+- UX-led product systems that convert messy inputs into decision-ready artifacts.
 
 ## What To Review First
 
@@ -35,20 +61,23 @@ Applied AI and data product builder focused on turning ambiguous business proble
 
 ## Technical Stack
 
-**Languages and analysis:** Python, SQL, Jupyter, pandas, NumPy, scikit-learn  
-**ML and analytics:** LightGBM, Random Forest, time series, causal inference, NLP, network analysis  
-**AI systems:** LLM APIs, retrieval workflows, agent-style orchestration, vector search, graph concepts  
-**Product and delivery:** FastAPI, dashboards, workflow design, stakeholder-ready product artifacts
+| Layer | Tools and Methods |
+|---|---|
+| Languages and analysis | Python, SQL, Jupyter, pandas, NumPy, scikit-learn |
+| ML and analytics | LightGBM, Random Forest, time series, causal inference, NLP, network analysis |
+| AI systems | LLM APIs, retrieval workflows, agent-style orchestration, vector search, graph concepts |
+| Product and delivery | FastAPI, dashboards, workflow design, UX flows, stakeholder-ready product artifacts |
 
 ## Role Fit
 
-Best-fit roles are at the intersection of product judgment, analytics depth, and technical implementation:
+Best-fit roles are at the intersection of product judgment, analytics depth, technical implementation, and user-centered systems design:
 
 - AI Product Manager
 - Data Product Manager
 - AI / ML Engineer for applied LLM or analytics products
 - Data Platform / Analytics Specialist
 - Product Analytics or Decision Science roles
+- Technical Product Manager for data, AI, or workflow automation products
 
 ## Project Maturity Notes
 
@@ -60,7 +89,8 @@ Not every repository has the same maturity level. Some are production-style prot
 - Add reproducible setup instructions and requirements files across notebooks.
 - Add sample outputs and limitations sections for projects with strong claims.
 - Keep Notion-only portfolio projects out of GitHub unless the repository itself contains enough evidence to review.
+- Use the portfolio to show deeper UI/UX case studies, screens, product thinking, and visual design work.
 
 ## Contact
 
-I am open to roles across AI product, applied ML, analytics engineering, and data product delivery.
+I am open to roles across AI product, applied ML, analytics engineering, data product delivery, and technical product management.
