@@ -79,18 +79,6 @@ Best-fit roles are at the intersection of product judgment, analytics depth, tec
 - Product Analytics or Decision Science roles
 - Technical Product Manager for data, AI, or workflow automation products
 
-## Project Maturity Notes
-
-Not every repository has the same maturity level. Some are production-style prototypes, some are course or notebook projects, and some are supporting evidence for specific skills. The strongest review path is to start with the flagship projects above rather than treating every repository as equal.
-
-## Current Cleanup Priorities
-
-- Keep pinned repositories focused on the strongest evidence.
-- Add reproducible setup instructions and requirements files across notebooks.
-- Add sample outputs and limitations sections for projects with strong claims.
-- Keep Notion-only portfolio projects out of GitHub unless the repository itself contains enough evidence to review.
-- Use the portfolio to show deeper UI/UX case studies, screens, product thinking, and visual design work.
-
 ## Contact
 
 I am open to roles across AI product, applied ML, analytics engineering, data product delivery, and technical product management.
