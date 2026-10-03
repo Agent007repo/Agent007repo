@@ -15,7 +15,7 @@ I am based in Toronto and interested in AI product management, technical product
 | Project | What to inspect | Scope and limitations |
 |---|---|---|
 | [Autonomous PM Engine](https://github.com/Agent007repo/autonomous-pm-engine) | Feedback ingestion, retrieval, multi-agent review, FastAPI job endpoints, and generated PRDs and roadmaps | Independent prototype. Human review is required; persistent job storage, access controls, and deployment validation remain production work. |
-| [SCRI: Supply Chain Risk Intelligence](https://github.com/Agent007repo/SCRI-Supply-Chain-Risk-Intelligence-System) | Macro-data preparation, forecasting, anomaly detection, horizon comparison, and notebook outputs | Independent research notebook. Reported 7-day ROC-AUC: 0.711; 14- and 30-day ranking is weak. Historical event coverage is limited and does not establish reliable early warning. |
+| [SCRI: Supply Chain Risk Intelligence](https://github.com/Agent007repo/SCRI-Supply-Chain-Risk-Intelligence-System) | Macro-data preparation, forecasting, anomaly detection, horizon comparison, and notebook outputs | Independent research notebook. Evaluation fixes are under review. Earlier reported metrics require a corrected rerun; historical event coverage does not establish reliable early warning. |
 
 ## Product and engineering foundations
 
@@ -41,3 +41,4 @@ Python · SQL · pandas · scikit-learn · LightGBM · Jupyter · FastAPI · LLM
 ## Current development priorities
 
 Make the two flagship projects easier to evaluate: reproducible runs, concrete sample outputs, documented acceptance criteria, and honest evaluation. Build on existing work with bounded implementation problems rather than adding unrelated demos.
+
