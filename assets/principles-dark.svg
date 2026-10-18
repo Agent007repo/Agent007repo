@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210" role="img" aria-labelledby="t d">
+<title id="t">How I work</title>
+<desc id="d">Four working rules: freeze the protocol before data, measure rather than estimate, audit the instrument with blinded checks, publish the limits including failed results.</desc>
+<style>
+
+.b1 { animation: drift1 22s ease-in-out infinite alternate; }
+.b2 { animation: drift2 26s ease-in-out infinite alternate; }
+.b3 { animation: drift3 18s ease-in-out infinite alternate; }
+@keyframes drift1 { to { transform: translate(-140px, 90px); } }
+@keyframes drift2 { to { transform: translate(180px, -110px); } }
+@keyframes drift3 { to { transform: translate(-90px, -60px) scale(1.25); } }
+
+.rise { animation: rise .9s cubic-bezier(.2,.7,.2,1) both; }
+@keyframes rise { from { opacity: 0; transform: translateY(14px); } }
+.pop { animation: pop .6s cubic-bezier(.2,.9,.3,1.3) both; transform-box: fill-box; transform-origin: center; }
+@keyframes pop { from { opacity: 0; transform: scale(.6); } }
+.grow { animation: grow 1.4s cubic-bezier(.2,.7,.2,1) both; transform-box: fill-box; transform-origin: left center; }
+@keyframes grow { from { transform: scaleX(0); } }
+
+.eyebrow { font: 700 12.5px ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace; letter-spacing: 2px; }
+.title { font: 800 46px -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif; letter-spacing: -1px; }
+.tagline { font: 450 17px -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif; }
+.big { font: 800 34px -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif; letter-spacing: -0.5px; }
+.small { font: 500 13px -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif; }
+.mono { font: 600 13px ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace; }
+.monos { font: 500 12px ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace; }
+.head { font: 700 14px -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif; }
+
+.flow { animation: flow 1.6s linear infinite; }
+@keyframes flow { to { stroke-dashoffset: -32; } }
+.halo { animation: halo 3s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+@keyframes halo { 0%, 100% { transform: scale(1); opacity: 1; } 20% { transform: scale(1.4); opacity: .3; } 40% { transform: scale(1); opacity: 1; } }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation: none !important; }
+}
+</style>
+<defs>
+  <clipPath id="clip-pr"><rect width="1200" height="210" rx="28"/></clipPath>
+  <filter id="blur-pr" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="70"/></filter>
+  <pattern id="grid-pr" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M40 0H0V40" fill="none" stroke="#EEF1FA" stroke-width="1" opacity="0.07"/>
+  </pattern>
+  <linearGradient id="fade-pr" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#fff" stop-opacity="1"/><stop offset="1" stop-color="#fff" stop-opacity="0.15"/>
+  </linearGradient>
+  <mask id="gridmask-pr"><rect width="1200" height="210" fill="url(#fade-pr)"/></mask>
+</defs>
+<g clip-path="url(#clip-pr)">
+  <rect width="1200" height="210" fill="#0A0F1E"/>
+  <g filter="url(#blur-pr)" opacity="0.38">
+    <circle class="b1" cx="983" cy="31" r="230" fill="#4F46E5"/>
+    <circle class="b2" cx="216" cy="199" r="250" fill="#0EA5E9"/>
+    <circle class="b3" cx="660" cy="115" r="170" fill="#14B8A6"/>
+  </g>
+  <rect width="1200" height="210" fill="url(#grid-pr)" mask="url(#gridmask-pr)"/>
+</g>
+<rect x="0.5" y="0.5" width="1199" height="209" rx="28" fill="none" stroke="#26304F"/>
+<defs><linearGradient id="pgrad" x1="0" x2="1"><stop offset="0" stop-color="#A78BFA"/><stop offset=".33" stop-color="#FBBF24"/><stop offset=".66" stop-color="#2DD4BF"/><stop offset="1" stop-color="#F472B6"/></linearGradient></defs><line x1="150" y1="84" x2="1050" y2="84" stroke="#26304F" stroke-width="2"/><line class="flow" x1="150" y1="84" x2="1050" y2="84" stroke="url(#pgrad)" stroke-width="2.5" stroke-dasharray="6 10"/><g class="pop" style="animation-delay:0.20s"><circle class="halo" style="animation-delay:0.00s" cx="150" cy="84" r="30" fill="#A78BFA" fill-opacity="0.15"/><circle cx="150" cy="84" r="22" fill="#121A36" stroke="#A78BFA" stroke-width="2"/><text x="150" y="89" text-anchor="middle" class="mono" fill="#A78BFA">01</text></g><g class="rise" style="animation-delay:0.40s"><text x="150" y="148" text-anchor="middle" class="head" style="font-size:16px" fill="#EEF1FA">Freeze the protocol</text><text x="150" y="170" text-anchor="middle" class="small" fill="#98A2BD">before any data exists</text></g><g class="pop" style="animation-delay:0.45s"><circle class="halo" style="animation-delay:0.75s" cx="450" cy="84" r="30" fill="#FBBF24" fill-opacity="0.15"/><circle cx="450" cy="84" r="22" fill="#121A36" stroke="#FBBF24" stroke-width="2"/><text x="450" y="89" text-anchor="middle" class="mono" fill="#FBBF24">02</text></g><g class="rise" style="animation-delay:0.65s"><text x="450" y="148" text-anchor="middle" class="head" style="font-size:16px" fill="#EEF1FA">Measure, don't estimate</text><text x="450" y="170" text-anchor="middle" class="small" fill="#98A2BD">and label what was assumed</text></g><g class="pop" style="animation-delay:0.70s"><circle class="halo" style="animation-delay:1.50s" cx="750" cy="84" r="30" fill="#2DD4BF" fill-opacity="0.15"/><circle cx="750" cy="84" r="22" fill="#121A36" stroke="#2DD4BF" stroke-width="2"/><text x="750" y="89" text-anchor="middle" class="mono" fill="#2DD4BF">03</text></g><g class="rise" style="animation-delay:0.90s"><text x="750" y="148" text-anchor="middle" class="head" style="font-size:16px" fill="#EEF1FA">Audit the instrument</text><text x="750" y="170" text-anchor="middle" class="small" fill="#98A2BD">blinded checks on my own scorer</text></g><g class="pop" style="animation-delay:0.95s"><circle class="halo" style="animation-delay:2.25s" cx="1050" cy="84" r="30" fill="#F472B6" fill-opacity="0.15"/><circle cx="1050" cy="84" r="22" fill="#121A36" stroke="#F472B6" stroke-width="2"/><text x="1050" y="89" text-anchor="middle" class="mono" fill="#F472B6">04</text></g><g class="rise" style="animation-delay:1.15s"><text x="1050" y="148" text-anchor="middle" class="head" style="font-size:16px" fill="#EEF1FA">Publish the limits</text><text x="1050" y="170" text-anchor="middle" class="small" fill="#98A2BD">including the results that failed</text></g></svg>
