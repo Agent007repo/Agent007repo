@@ -18,9 +18,15 @@
 <p align="center">
   <b>McGill MMA (2025)</b> &nbsp;·&nbsp; <b>SF State BS, Information Systems, magna cum laude (2023)</b> &nbsp;·&nbsp; Based in Canada<br>
   <sub>Open to roles across Canada in AI and ML engineering, applied and decision science, data and analytics engineering, technical and AI product management, and solutions engineering.</sub>
-</p>
+</p><br>
 
-<br>
+## Start Here
+
+- [ContinuumBench: Measure Before You Place](https://github.com/Agent007repo/continuum-bench)
+- [TrustTrace: Trace a Concern into a Tested Design](https://github.com/Agent007repo/trusttrace)
+- [Autonomous PM Engine](https://github.com/Agent007repo/autonomous-pm-engine)
+
+
 
 ## Featured research
 
